@@ -1,0 +1,22 @@
+a{
+    color: #747704;
+}
+a:hover {
+    color: #ABDCSB;
+}
+.bean{
+    height: 100px;
+    width: 100px;
+}
+.scale{
+    width: 1140px;
+    height: 350px;
+}
+.show{
+    height: 200px;
+    width: 200px;
+}
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
